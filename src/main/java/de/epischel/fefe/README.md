@@ -1,0 +1,1 @@
+various attempts for implementing algorithm see http://ptrace.fefe.de/wp/README.txt
